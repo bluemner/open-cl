@@ -1,0 +1,19 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+		{
+			"name": "Test (Windows)",
+			"type": "cppvsdbg",
+			"request": "launch",
+			"program": "${workspaceRoot}/bin/test.exe",
+			"args": [
+				"${workspaceRoot}/kernel/test.cl"
+			],
+		
+			"stopAtEntry": false,
+			"cwd": "${workspaceRoot}",
+			"environment": [],
+			"externalConsole": false
+		}
+	]
+}

@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"*.cl": "csharp",
+		"iostream": "cpp",
+		"chrono": "cpp",
+		"xlocale": "cpp"
+	}
+}
